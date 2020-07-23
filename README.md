@@ -2,6 +2,6 @@ Each folder pertains to a different section of learning. To use these examples i
 
 Running an example:
 
-1 - Run the index.html within the desired learning section folder with live server.
-2 - Rename the JS file you want to use to 'app.js'
-3 - Start editing and playing with the example code.
+- Run the index.html within the desired learning section folder with live server.
+- Rename the JS file you want to use to 'app.js'
+- Start editing and playing with the example code.
