@@ -1,0 +1,26 @@
+/*
+  What is an API? An Application programming interface. This is a very broad term, but think of it like a 
+  contract between one piece of software to another. Made up of structured request and structured responses.
+
+  When we say API in JS, we generally mean web APIs. 
+  
+  The most common of which is REST: Representational State Transfer.
+
+  REST relies on stateless client server protocols (almost always HTTP)
+
+  The most common types of requests are:
+
+  GET: Retrieve data from a resource
+
+  POST: Submit data to be processed to a resource
+
+  PUT: Update a specified resource
+
+  UPDATE: Delete a specified resource
+
+  APIs use things called "endpoints", which in the web are URLs that you access to do certain things, for example@
+
+  GET: https://someurl.com/api/users
+  DELETE: https://someurl/com/api/users/:id
+
+*/
