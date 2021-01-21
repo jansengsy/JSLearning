@@ -1,4 +1,4 @@
-Each folder pertains to a different section of learning. To use these examples install the live server plugin for VS code (or a similar plugin for non-vscode users).
+Each folder covers a different section of learning. To use these examples install the live server plugin for VS code (or a similar plugin for non-vscode users).
 
 Running an example:
 
